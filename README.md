@@ -22,8 +22,6 @@ License plate detection using Tesseract involves several steps, including image 
 
 ![car_plate_1][0]
 ![car_plate_2][1]
-![Alt text](images/plate1.jpeg "Test-1")
-![Alt text](images/plate2.jpeg "Test-2")
 
 ## Usage
 
