@@ -1,5 +1,4 @@
-# License-Plate-Inspector
-## License Plate Recognition Using Tesseract
+# License Plate Recognition Using Tesseract
 
 This project focuses on detecting license plates in images using the Tesseract OCR (Optical Character Recognition) engine. The goal is to develop a system capable of accurately extracting license plate numbers from images for various applications such as traffic monitoring, parking management, and vehicle identification.
 
